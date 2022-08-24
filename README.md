@@ -23,3 +23,5 @@ Atualmente sou estudante do Técnico em desenvolvimento de sistemas e busco a pr
   <a href = "mailto:pedrosolucas1745@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroso-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
 </div>
+
+ ![Snake animation](https://github.com/1LUCASPEDROSO/1LUCASPEDROSO/blob/output/github-contribution-grid-snake.svg)
