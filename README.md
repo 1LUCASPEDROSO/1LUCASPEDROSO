@@ -1,5 +1,5 @@
 ### Hizito
-Atualmente sou estudante do Técnico em desenvolvimento de sistemas e busco a primeira experiência na área dev como estagiário/trainee ou Dev junior para backend
+Atualmente sou estudante do Técnico em desenvolvimento de sistemas e busco a primeira experiência na área dev como estagiário/trainee ou junior para backend
 -->
 
 <div align="center">
