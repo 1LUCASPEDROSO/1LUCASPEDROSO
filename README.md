@@ -1,6 +1,13 @@
-### Hizito
-Atualmente sou estudante do Técnico em desenvolvimento de sistemas e busco a primeira experiência na área dev como estagiário/trainee ou junior para backend
--->
+### Olá
+### Olá, Eu sou o Lucas Pedroso 👋
+
+Sou um Desenvolvedor Backend apaixonado por tecnologia, com foco em Python/Django e Java/Spring Boot. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+
+### Sobre Mim
+
+- 🎓 Formado em Técnico de Desenvolvimento de Sistemas pelo Senac/RS.
+- 🌐 Inglês técnico para leitura e escrita de documentação.
+- 💼 Atualmente em busca de novas oportunidades.
 
 <div align="center">
   <a href="https://github.com/1LUCASPEDROSO">
