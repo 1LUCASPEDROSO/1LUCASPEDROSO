@@ -1,4 +1,3 @@
-### Olá
 ### Olá, Eu sou o Lucas Pedroso 👋
 
 Sou um Desenvolvedor Backend apaixonado por tecnologia, com foco em Python/Django e Java/Spring Boot. Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
