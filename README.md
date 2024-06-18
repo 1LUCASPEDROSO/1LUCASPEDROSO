@@ -4,9 +4,9 @@ Sou um Desenvolvedor Backend apaixonado por tecnologia, com foco em Python/Djang
 
 ### Sobre Mim
 
+- 💼 Atualmente em busca de novas oportunidades.
 - 🎓 Formado em Técnico de Desenvolvimento de Sistemas pelo Senac/RS.
 - 🌐 Inglês técnico para leitura e escrita de documentação.
-- 💼 Atualmente em busca de novas oportunidades.
 
 <div align="center">
   <a href="https://github.com/1LUCASPEDROSO">
